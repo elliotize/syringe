@@ -1,9 +1,9 @@
 name: syringe
-version: 0.2.0
+version: 0.2.1
 
 authors:
   - Bonemind <subhime@gmail.com>
 
-crystal: 0.29.0
+crystal: 0.35.1
 
 license: MIT
